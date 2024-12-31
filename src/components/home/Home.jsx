@@ -7,7 +7,7 @@ const Home = () => {
  
 
   return (
-    <div className="w-full h-[100vh] flex justify-center items-center bg-custum-hover-dark">
+    <div className="w-full h-[100vh] flex justify-center items-center bg-custom-peach dark:bg-custum-hover-dark">
       <div className="flex flex-col justify-center items-center space-y-28">
         <img src="./logo.png" alt="logo" className="w-64"/>
         <h1 className="text-white text-xl uppercase font-bold tracking-widest">Supply Provision student panel</h1>
